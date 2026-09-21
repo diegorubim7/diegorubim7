@@ -1,4 +1,4 @@
-## # Olá, eu sou o [Seu Nome] 👋
+## # Olá, eu sou o Diego 👋
 
 🎓 **Estudante de Engenharia de Controle e Automação**  
 💻 Apaixonado por desenvolvimento de software, automação, desenvolvimento web e integração hardware-software.
